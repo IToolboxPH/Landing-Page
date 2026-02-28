@@ -1,0 +1,74 @@
+# IToolbox Configuration
+
+# Company Information
+company:
+  name: "IToolbox"
+  legal_name: "IToolbox (To be registered)"
+  founded: 2019
+  country: "Philippines"
+  website: "itoolbox.ph"
+  email: "itoolbox2019@gmail.com"
+  phone: "+63 999 229 8724"
+
+# Leadership
+leadership:
+  ceo:
+    name: "Nicole John A. Mortel"
+    title: "Founding President & CEO"
+    email: "itoolbox2019@gmail.com"
+    phone: "+63 999 229 8724"
+
+# Products
+products:
+  - name: "BilMoko"
+    description: "Restaurant Price Aggregator"
+    status: "planning"
+    target_launch: "Q2 2026"
+    
+  - name: "InForMa"
+    description: "Intelligent Forest Monitoring"
+    status: "active"
+    github: "https://github.com/IToolboxPH/InForMa-v1.0_dev-env"
+    target_launch: "Q3 2026"
+    
+  - name: "DigiCool"
+    description: "Digital School Platform"
+    status: "planning"
+    target_launch: "Q4 2026"
+    
+  - name: "IToolbox Corporate Site"
+    description: "Company Landing Page"
+    status: "active"
+    target_launch: "Q1 2026"
+
+# Social Media
+social:
+  linkedin: ""
+  github: "https://github.com/IToolboxPH"
+  facebook: ""
+  twitter: ""
+
+# Analytics
+analytics:
+  enabled: true
+  storage: "localStorage"  # Will upgrade to database later
+  
+# Feature Flags
+features:
+  contact_form: true
+  newsletter: false
+  blog: false
+  careers: false
+
+# Development
+development:
+  lab_path: "/Users/nicomortel/Desktop/Nico M. Simulation Lab/itoolbox_lab"
+  landing_page_path: "/Users/nicomortel/Desktop/Nico M. Simulation Lab/itoolbox_lab/itoolbox_landing"
+  python_version: "3.12.12"
+  venv_path: "/Users/nicomortel/Desktop/Nico M. Simulation Lab/.venv"
+
+# Deployment (Future)
+deployment:
+  domain: "itoolbox.ph"
+  hosting: "TBD"  # Options: AWS, Azure, Vercel, Netlify
+  ssl: true
