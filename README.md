@@ -8,26 +8,38 @@
 
 ---
 
-## 🎯 Project Overview
+## 🏢 About IToolbox
 
 IToolbox is a technology startup founded in 2019, dedicated to building innovative digital solutions that leverage AI, IoT, and modern web technologies. We're on a mission to create practical, scalable products that solve real-world problems across both public and private sectors.
 
-### Landing Page Sections
-- **Home** - Hero section with key metrics and CTAs
-- **About** - Company information, leadership, mission & vision
-- **Products & Services** - 6 core commercial products
-- **Partners** - Strategic partnerships (LMNP, VGP-LTC)
-- **Social Impact** - OnePath volunteer initiative
-- **Technology Stack** - Technical capabilities showcase
-- **Contact** - Multi-channel contact information
+### Our Leadership
 
-### Key Features
-- 🎨 Modern responsive landing page ✅
-- 🤝 Partners section with logo integration ✅
-- 🙏 Social Impact section (OnePath) ✅
-- 📱 Mobile-responsive design ✅
-- 🎯 6 Products showcased ✅
-- 🔐 Built-in analytics tracking ✅
+Our organization is led by **Nicole John (Nico) A. Mortel**, our Founding President & CEO — an accomplished IT professional, Senior Network Engineer, and Data Scientist with deep expertise in full‑stack development, AI/ML, and network infrastructure. Currently in our bootstrap phase, Nico M. drives both the technical and business fronts, overseeing product development, strategic direction, and operational execution as we build the foundation of our core offerings.
+
+### Growth Plans
+
+We're strategically expanding our team with planned hires in 2026, including a **CTO/Lead Developer** and **Marketing & Sales Lead**. As we scale, we'll grow into a full executive team with specialized roles in technology, operations, finance, and customer success.
+
+### Our Mission
+
+To build practical, scalable, and high‑impact digital products and services that address real‑world challenges across both the public and private sectors. We deliver high‑quality, user‑centric solutions that combine cutting‑edge technologies — AI, IoT, automation, and modern web platforms — with real‑world applications that drive efficiency, sustainability, and meaningful growth.
+
+We serve industries where innovation is urgently needed, including Environmental Management, Education, Agriculture, Healthcare, Financial Services (FinTech), Logistics, and Manufacturing.
+
+Our mission is rooted in a philosophy shaped by firsthand exposure to global innovation ecosystems: that true innovation is a continuous, never‑ending cycle of discovery, improvement, and reinvention. This belief guides how we design, build, and deliver every product we create.
+
+### Our Vision
+
+IToolbox aims to be a leading provider of innovative, resilient, and sustainable technology solutions that enable organizations to operate efficiently, responsibly, and competitively. We envision a future where continuous innovation and environmental stewardship work together to drive long‑term value for industries, professionals, and communities.
+
+We are committed to advancing technology as a service by:
+- Delivering scalable solutions that support digital transformation and operational excellence.
+- Equipping professionals with the tools, training, and capabilities needed for innovation.
+- Embedding sustainability principles into our products, practices, and partnerships.
+- Promoting responsible use of technology to reduce environmental impact and support global sustainability goals.
+- Extending digital opportunities to underserved communities to ensure inclusive, equitable progress.
+
+Our vision is to create enduring value for our clients, partners, and society by developing technologies that are purposeful, environmentally responsible, and aligned with global standards of excellence.
 
 ---
 
